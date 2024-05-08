@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🧰Degree wise I am Mechanical Engineer<br>📱But skill wise I am Android Developer using Kotlin😄.<br>😄Currently upskilling my Android Development skills using Google codelabs, from Youtube and also developing android apps👩🏻‍💻.<br>🏢And finally looking opportunities in Android Field.<br>
+🧰Degree wise I am Mechanical Engineer<br>📱But skill wise I am Android Developer using Kotlin😄.<br>😄Currently upskilling my Android Development skills using Google codelabs, from Youtube and finally developing cool android apps👩🏻‍💻 to robust my skill set.<br>🏢And finally looking opportunities in Android Field.<br>
 
 
 ## 🌐 Socials:
