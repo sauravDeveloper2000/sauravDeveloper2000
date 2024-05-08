@@ -1,7 +1,6 @@
 ### Hi there 👋
-
 # 💫 About Me:
-🧰Degree wise I am Mechanical Engineer<br>📱But skill wise I am Android Developer using Kotlin😄.<br>😄Currently upskilling my Android Development skills from Google codelabs, Youtube, Medium and also developing cool android apps 👩🏻‍💻.<br>🏢And finally looking opportunities in Android Field.<br>
+🧰Degree wise I am Mechanical Engineer<br>📱But skill wise I am Android Developer using Kotlin😄.<br>😄Currently upskilling my Android Development skills using Google codelabs, from Youtube and also developing android apps👩🏻‍💻.<br>🏢And finally looking opportunities in Android Field.<br>
 
 
 ## 🌐 Socials:
@@ -15,15 +14,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravDeveloper2000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sauravDeveloper2000&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sauravDeveloper2000&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sauravDeveloper2000&icon=0&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
